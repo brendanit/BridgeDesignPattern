@@ -6,5 +6,5 @@ interface IAccount
         return 0;
     }
     //float Balance = Personal.GetBalance();
-    // String Name = Personal.getName();
+   // String Name = Personal.getName();
 }
